@@ -6,7 +6,7 @@ http://177.222.108.82:2500/play/a0h4/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="3 RPP TV" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" size="Small", 3 RPP TV
 http://191.97.58.41:8001/play/a00v
 #EXTINF:0 type="stream" channelId="4792" name="4 AMERICA TV" group="LOCAL" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" size="Small", 4 AMERICA TV
-http://190.109.4.34:8000/play/a08i/index.m3u8
+http://38.56.220.254:8000/play/a001/index.m3u8
 #EXTINF:0 type="stream" channelId="4792" name="4.1 AMERICA TV HD" group="LOCAL" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" size="Small", 4.1 AMERICA TV HD
 http://177.222.108.82:2500/play/a0h3/index.m3u8
 #EXTINF:0 type="stream" channelId="1956" name="5 PANAMERICANA TV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg", 5 PANAMERICANA TV
