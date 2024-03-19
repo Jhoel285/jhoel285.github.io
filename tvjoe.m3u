@@ -62,11 +62,11 @@ http://177.222.108.82:2500/play/a0h6/index.m3u8
 #EXTINF:0 type="stream" channelId="1686" name="19 GOL TV" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg", 19 GOL TV
 http://179.1.146.21:8000/play/a022/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="20 DSPORTS" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", 20 DSPORTS
-http://home-playtv.com:8080/garayale/KSGSU/469393
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145400
 #EXTINF:0 type="stream" channelId="-1" name="21 DSPORTS 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", 21 DSPORTS 2
-http://home-playtv.com:8080/garayale/KSGSU/456659
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145402
 #EXTINF:0 type="stream" channelId="-1" name="22 DSPORTS+" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png", 22 DSPORTS+
-http://mozzatv.com.es:2082/movinew/uPEkpZfx4W3Rnew/460610
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145403
 #EXTINF:0 type="stream" channelId="344" name="23 ESPN" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg", 23 ESPN
 http://181.119.66.30:8000/play/a05j/index.m3u8
 #EXTINF:0 type="stream" channelId="4657" name="24 ESPN 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg", 24 ESPN 2
@@ -202,7 +202,7 @@ http://186.148.163.18:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="4661" name="77 PASIONES" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg", 77 PASIONES
 http://167.250.39.130:8000/play/pasiones
 #EXTINF:0 type="stream" channelId="2504" name="78 TLNovelas" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png", 78 TLNOVELAS
-http://186.189.215.34:8000/play/a04k/index.m3u8
+http://177.222.108.82:2500/play/a0ga/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="79 TNT NOVELAS" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", 79 TNT NOVELAS
 http://45.181.122.13:8000/play/039
 #EXTINF:0 type="stream" channelId="3782" name="80 RCN NOVELAS" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png", 80 RCN NOVELAS
@@ -230,7 +230,7 @@ http://138.186.20.13:23200/play/a04t
 #EXTINF:0 type="stream" channelId="2632" name="91 FILM&ARTS" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png", 91 FILM&ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:0 type="stream" channelId="2557" name="92 WARNER CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" audio-track="Español" subtitles="spa" tvg-country="PE", 92 WARNER CHANNEL
-http://186.189.215.34:8000/play/a0ho/index.m3u8
+http://181.78.75.83:5013/play/a0a4/index.m3u8
 #EXTINF:0 type="stream" channelId="530" name="93 SONY CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", 93 SONY CHANNEL
 http://131.161.53.2:8000/play/a05e/index.m3u8
 #EXTINF:0 type="stream" channelId="2007" name="94 SONY MOVIES" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png", 94 SONY MOVIES
@@ -267,16 +267,16 @@ http://45.177.53.7:8000/play/a0l6/index.m3u8
 http://45.177.53.7:8000/play/a0l7/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" name="103.2 HBO FAMILY" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg", 103.2 HBO FAMILY
 http://45.177.53.7:8000/play/a0ew/index.m3u8
-#EXTINF:0 type="stream" channelId="361" name="103.3 HBO POP" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" audio-track="spa" subtitles="spa" tvg-country="PE" size="Small", 103.3 HBO POP
-http://45.177.53.7:8000/play/a0ky/index.m3u8
+#EXTINF:0 type="stream" channelId="361" name="103.3 HBO POP" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" size="Small", 103.3 HBO POP
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/1911
 #EXTINF:0 type="stream" channelId="-1" name="103.4 HBO+" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg", 103.4 HBO+
 http://138.117.97.182:58091/play/a0cb
 #EXTINF:0 type="stream" channelId="2587" name="103.5 HBO XTREME" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg", 103.5 HBO XTREME
 http://138.117.97.182:58091/play/a0cd
 #EXTINF:0 type="stream" channelId="2583" name="103.6 HBO SIGNATURE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg", 103.6 HBO SIGNATURE
-http://209.45.101.38:7500/play/a0ah
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/52879
 #EXTINF:0 type="stream" channelId="2725" name="103.7 HBO MUNDI" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" size="Small", 103.7 HBO MUNDI
-http://201.222.44.220:4227/play/a043/index.m3u8
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/52878
 #EXTINF:0 type="stream" channelId="2625" name="104 STUDIO UNIVERSAL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", 104 STUDIO UNIVERSAL
 http://45.177.53.7:8000/play/a0j7/index.m3u8
 #EXTINF:0 type="stream" channelId="187" name="105 UNIVERSAL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg", 105 UNIVERSAL CHANNEL
@@ -290,7 +290,7 @@ http://138.117.97.182:58091/play/a0c6
 #EXTINF:0 type="stream" channelId="-1" name="105.4 UNIVERSAL PREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", 105.4 UNIVERSAL PREMIER
 http://190.61.43.117:45000/play/a05w
 #EXTINF:0 type="stream" channelId="-1" name="105.5 UNIVERSAL PREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", 105.5 UNIVERSAL PREMIER OESTE
-http://168.228.194.32:48091/play/a08j/index.m3u8
+http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/26737
 #EXTINF:0 type="stream" channelId="-1" name="105.6 UNIVERSAL REALITY" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056", 105.6 UNIVERSAL REALITY
 http://181.78.105.146:6060/play/a03r
 #EXTINF:0 type="stream" channelId="292" name="106 MULTIPREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Multipremier_logo.svg", 106 MULTIPREMIER
@@ -320,7 +320,7 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="116 DREAMWORKS" group="KIDS" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg", 116 DREAMWORKS
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:0 type="stream" channelId="283" name="117 CINE LATINO" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg", 117 CINE LATINO
-http://167.250.222.35:16000/play/a07b/index.m3u8
+http://138.117.97.182:58091/play/a016
 #EXTINF:0 type="stream" channelId="-1" name="117.1 CINE PREMIUM" group="SERIES Y PELICULAS" logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png", 117.1 CINE PREMIUM
 http://191.97.60.193:10000/play/a02k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="117.2 CINE HISPANO" group="SERIES Y PELICULAS" logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_cinehispano.jpg", 117.2 CINE HISPANO
@@ -328,4 +328,4 @@ http://191.97.60.193:10000/play/a02x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="117.3 CINE FAMILIAR" group="SERIES Y PELICULAS" logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_cinefamiliar.jpg", 117.3 CINE FAMILIAR
 http://191.97.60.193:10000/play/a02w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="118 CHAVO DEL 8" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg", 118 CHAVO DEL 8
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/138444
