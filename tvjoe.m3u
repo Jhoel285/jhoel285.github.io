@@ -112,7 +112,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 #EXTINF:0 type="stream" channelId="-1" name="44 KARIBEÑA" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png", 44 KARIBEÑA
 http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="45 TOP LATINO" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png", 45 TOP LATINO
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w375546772_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzE5MTA0NzIzJnR2dG9rZW5lbmR0aW1lPTE3MTkxMDY1MjMmdHZ0b2tlbmhhc2g9WnloaFV6aVc5NldrekhGM2RZNmg1Zm5fS1k1YTRoa3B0Wm5BQnA0TTY1az0=.m3u8
 #EXTINF:0 type="stream" channelId="288" name="46 HTV" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Htv_logo.svg", 46 HTV
 http://181.78.64.71:16123/play/a08x
 #EXTINF:0 type="stream" channelId="-1" name="47 LOLLY KIDS" group="MUSICA" logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Lolly_Kids_TV_2018.svg/revision/latest?cb=20220608234257&path-prefix=es", 47 LOLLY KIDS
