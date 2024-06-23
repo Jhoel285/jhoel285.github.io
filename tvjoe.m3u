@@ -121,7 +121,7 @@ http://181.78.208.237:8000/play/a02l/index.m3u8
 #EXTINF:0 type="stream" channelId="1966" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png", 48 TELEHIT
 http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:0 type="stream" channelId="1964" name="48 TELEHIT" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png", 48.1 TELEHIT MUSICA
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1315.m3u8
 #EXTINF:0 type="stream" channelId="4781" name="49 SIN LIMITES" group="MUSICA" logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png", 49 SIN LIMITES
 http://181.78.27.128:8000/play/a04e/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="50 MEMORIAS TV" group="MUSICA" logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png", 50 MIMUSICA ROMANTICA
