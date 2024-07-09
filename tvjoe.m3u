@@ -72,7 +72,7 @@ http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/154275
 #EXTINF:0 type="stream" channelId="344" name="23 ESPN" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg", 23 ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4657" name="24 ESPN 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg", 24 ESPN 2
-http://8.242.176.45:1013/play/a016/index.m3u8
+http://45.173.201.50:4000/play/a05r/index.m3u8
 #EXTINF:0 type="stream" channelId="355" name="25 ESPN 3" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", 25 ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4657" name="27 ESPN EXTRA" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg", 26 ESPN 4
