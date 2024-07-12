@@ -24,7 +24,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:0 type="stream" channelId="2544" name="7.3 CANAL IPE" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Canal_IPe_Abril_2022.png", 7.3 CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="8 CANAL N" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" size="Small", 8 CANAL N
-http://todoporti.eu:80/7de2q9XPHJVF/UBFbhZX5eewG/79183
+http://pe.shortgod.com/wow/play.php?id=197
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9 ATV
 http://190.216.162.153:8001/play/a0en/index.m3u8
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9.1 ATV HD
@@ -166,7 +166,7 @@ http://45.167.3.81:45000/play/a041/index.m3u8
 #EXTINF:0 type="stream" channelId="1418" name="65 HGTV" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg", 65 HGTV
 http://190.60.40.37:12500/play/a01h/index.m3u8
 #EXTINF:0 type="stream" channelId="139" name="66 IVC" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png", 66 IVC
-http://190.121.153.89:8000/play/a010/index.m3u8
+http://190.90.252.200:16001/play/a05p/index.m3u8
 #EXTINF:0 type="stream" channelId="3775" name="67 MASCHIC" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg", 67 MASCHIC
 http://181.78.64.71:16123/play/ch33
 #EXTINF:0 type="stream" channelId="1244" name="68 FOOD NETWORK" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg", 68 FOOD NETWORK
@@ -174,7 +174,7 @@ http://45.173.201.50:4000/play/a066/index.m3u8
 #EXTINF:0 type="stream" channelId="310" name="69 EL GOURMET" group="ENTRETENIMIENTO" logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest?cb=20230410230610&path-prefix=es", 69 EL GOURMET
 http://190.216.162.154:8001/play/a014/index.m3u8
 #EXTINF:0 type="stream" channelId="1204" name="70 HISTORY" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg", 70 HISTORY
-http://167.250.39.130:8000/play/history
+http://168.197.196.98:9981/stream/channelid/788658705?profile=pass
 #EXTINF:0 type="stream" channelId="1204" name="70.1 HISTORY" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg", 70.1 HISTORY
 http://181.78.105.146:6060/play/a026
 #EXTINF:0 type="stream" channelId="1204" name="71 HISTORY 2" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg", 71 HISTORY 2
@@ -182,19 +182,19 @@ http://45.173.201.50:4000/play/a06f/index.m3u8
 #EXTINF:0 type="stream" channelId="50" name="72 ANIMAL PLANET" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", 72 ANIMAL PLANET
 http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:0 type="stream" channelId="2035" name="73 LOVE NATURE" group="CULTURA" logo="https://tv.lovenature.com/wp-content/uploads/2023/03/Love-Nature-Logo.png", 73 LOVE NATURE
-http://186.148.183.242:5805/play/a09i/index.m3u8
+http://190.109.4.34:8000/play/a04b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="74 DISCOVERY H&H" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" audio-track="spa", 74 DISCOVERY H&H
-http://138.117.97.182:58091/play/a00w
+http://168.197.196.98:9981/stream/channelid/650301474?profile=pass
 #EXTINF:0 type="stream" channelId="-1" name="74.1 DISCOVERY THEATHER" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg", 74.1 DISCOVERY THEATHER
-http://138.117.97.182:58091/play/a02r
+http://168.197.196.98:9981/stream/channelid/419708250?profile=pass
 #EXTINF:0 type="stream" channelId="2840" name="74.2 DISCOVERY TURBO" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg", 74.2 DISCOVERY TURBO
-http://186.190.231.178:8000/play/a03c/index.m3u8
+http://181.78.64.71:16123/play/ch24
 #EXTINF:0 type="stream" channelId="2839" name="74.3 DISCOVERY WORLD" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/World_Discovery_HD_logo.svg", 74.3 DISCOVERY WORLD
-http://138.117.97.182:58091/play/a00o
+http://177.222.108.82:2500/play/a0id/index.m3u8
 #EXTINF:0 type="stream" channelId="139" name="74.4 DISCOVERY CHANNEL" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg", 74.4 DISCOVERY CHANNEL
-http://138.117.97.182:58091/play/a00m
+http://168.197.196.98:9981/stream/channelid/1956161160?profile=pass
 #EXTINF:0 type="stream" channelId="58" name="74.5 DISCOVERY SCIENCE" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Discovery_Science_2017_Logo.svg", 74.5 DISCOVERY SCIENCE
-http://138.117.97.182:58091/play/a023
+http://170.82.37.21:8000/play/a01b/index.m3u8
 #EXTINF:0 type="stream" channelId="59" name="74.6 DISCOVERY ID" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg", 74.6 DISCOVERY ID
 http://45.173.201.50:4000/play/a072/index.m3u8
 #EXTINF:0 type="stream" channelId="56" name="75 NATGEO" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg", 75 NATGEO
@@ -202,21 +202,21 @@ http://138.186.20.13:23200/play/a05v
 #EXTINF:0 type="stream" channelId="1954" name="76 LAS ESTRELLAS" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg", 76 LAS ESTRELLAS
 http://186.148.163.18:8000/play/a04x/index.m3u8
 #EXTINF:0 type="stream" channelId="4661" name="77 PASIONES" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg", 77 PASIONES
-http://167.250.39.130:8000/play/pasiones
+http://177.222.108.82:2500/play/a0hu/index.m3u8
 #EXTINF:0 type="stream" channelId="2504" name="78 TLNovelas" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png", 78 TLNOVELAS
-http://181.78.78.105:8000/play/a049/index.m3u8
+http://177.222.108.82:2500/play/a0ga/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="79 TNT NOVELAS" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", 79 TNT NOVELAS
 http://45.181.122.13:8000/play/039
 #EXTINF:0 type="stream" channelId="3782" name="80 RCN NOVELAS" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png", 80 RCN NOVELAS
-http://138.117.97.182:58091/play/a02a
+http://186.148.163.18:8000/play/a00w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="81 CORAZON" group="NOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg", 81 CORAZON
 http://45.5.117.182:8000/play/a0eu/index.m3u8
 #EXTINF:0 type="stream" channelId="1961" name="82 DISTRITO COMEDIA" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", 82 DISTRITO COMEDIA
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://190.90.252.200:16001/play/a07n/index.m3u8
 #EXTINF:0 type="stream" channelId="1190" name="83 COMEDY CENTRAL" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", 83 COMEDY CENTRAL
-http://138.59.177.34:8000/play/a05p/index.m3u8
+http://168.197.196.98:9981/stream/channelid/1985350283?profile=pass
 #EXTINF:0 type="stream" channelId="1200" name="84 LIFETIME" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg", 84 LIFETIME
-http://186.190.231.178:8000/play/a01d/index.m3u8
+http://168.197.196.98:9981/stream/channelid/1271335961?profile=pass
 #EXTINF:0 type="stream" channelId="-1" name="85 A&E MUNDO" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg", 85 A&E MUNDO
 http://45.173.201.50:4000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" name="86 AMC" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" subtitles="ES" tvg-country="PE", 86 AMC
@@ -226,108 +226,108 @@ http://181.78.105.146:6060/play/a04m
 #EXTINF:0 type="stream" channelId="1303" name="88 FX" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", 88 FX
 http://45.173.201.50:4000/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="3743" name="89 DHE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/2020_Canal_DHE_logo.svg", 89 DHE
-http://138.117.97.182:58091/play/a02v
+http://181.78.105.146:6060/play/a02m
 #EXTINF:0 type="stream" channelId="-1" name="90 CLOVER CHANNEL" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es", 90 CLOVER CHANNEL
 http://138.186.20.13:23200/play/a04t
 #EXTINF:0 type="stream" channelId="2632" name="91 FILM&ARTS" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png", 91 FILM&ARTS
 http://181.78.105.146:6060/play/a02f
 #EXTINF:0 type="stream" channelId="2557" name="92 WARNER CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" audio-track="Español" subtitles="spa" tvg-country="PE", 92 WARNER CHANNEL
-http://167.250.39.130:8000/play/warner
+http://45.173.201.50:4000/play/a05p/index.m3u8
 #EXTINF:0 type="stream" channelId="530" name="93 SONY CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", 93 SONY CHANNEL
 http://45.167.3.81:45000/play/a048/index.m3u8
 #EXTINF:0 type="stream" channelId="2007" name="94 SONY MOVIES" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png", 94 SONY MOVIES
-http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/187966.m3u8
 #EXTINF:0 type="stream" channelId="4036" name="95 PARAMOUNT" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg", 95 PARAMOUNT
 http://45.173.201.50:4000/play/a06v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="96 STAR CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", 96 STAR CHANNEL
 http://177.93.41.134:4000/play/a04c/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="96.1 STAR CHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg", 96.1 STAR CHANNEL
-http://190.109.22.234:9991/play/a05r/index.m3u8
+http://45.173.201.50:4000/play/a06b/index.m3u8
 #EXTINF:0 type="stream" channelId="383" name="97 SPACE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", 97 SPACE
 http://190.216.162.154:8001/play/a00f/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" name="98 TNT" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg", 98 TNT
 http://190.60.40.37:12500/play/a00p/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" name="99 TNT SERIES" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", 99 TNT SERIES
-http://167.250.39.130:8000/play/tntseries
+http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" name="100 CINEMAX" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg", 100 CINEMAX
 http://home-playtv.com:8080/garayale/KSGSU/242025
 #EXTINF:0 type="stream" channelId="64" name="101 CINECANAL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", 101 CINECANAL
-http://186.148.175.32:8000/play/a00p
+http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 #EXTINF:0 type="stream" channelId="333" name="102 GOLDEN" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Canal_Golden_logo.svg", 102 GOLDEN
-http://200.125.170.120:8000/play/a04a/index.m3u8
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/92603
 #EXTINF:0 type="stream" channelId="3765" name="102.1 GOLDEN PLUS" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest?cb=20210512164553&path-prefix=es", 102.1 GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://190.109.4.34:8000/play/a03z/index.m3u8
 #EXTINF:0 type="stream" channelId="2502" name="102.2 GOLDEN EDGE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", 102.2 GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/22199
 #EXTINF:0 type="stream" channelId="1963" name="102.3 GOLDEN PREMIER" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es", 102.3 GOLDEN PREMIER
-http://131.161.53.2:8000/play/a018/index.m3u8
+http://tv.soccerplus.link:8000/bross2023/k97si69wo9w75y97w/22200
 #EXTINF:0 type="stream" channelId="3766" name="102.4 GOLDEN PREMIER 2" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest/scale-to-width-down/350?cb=20201201141739&path-prefix=es", 102.4 GOLDEN PREMIER 2
-http://131.161.53.2:8000/play/a019/index.m3u8
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/92604
 #EXTINF:0 type="stream" channelId="361" name="103 HBO" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", 103 HBO
-http://45.177.53.7:8000/play/a0l6/index.m3u8
+http://190.216.162.154:8001/play/a01r/index.m3u8
 #EXTINF:0 type="stream" channelId="935" name="103.1 HBO2" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/HBO2_logo.svg", 103.1 HBO2
-http://45.177.53.7:8000/play/a0l7/index.m3u8
+http://190.216.162.154:8001/play/a01y/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" name="103.2 HBO FAMILY" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/HBO_Family.svg", 103.2 HBO FAMILY
-http://45.177.53.7:8000/play/a0ew/index.m3u8
+http://190.216.162.154:8001/play/a02q/index.m3u8
 #EXTINF:0 type="stream" channelId="361" name="103.3 HBO POP" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" size="Small", 103.3 HBO POP
-http://home-playtv.com:8080/garayale/KSGSU/185169
+http://190.216.162.154:8001/play/a00i/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="103.4 HBO+" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg", 103.4 HBO+
-http://138.117.97.182:58091/play/a0cb
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1434
 #EXTINF:0 type="stream" channelId="2587" name="103.5 HBO XTREME" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg", 103.5 HBO XTREME
-http://138.117.97.182:58091/play/a0cd
+http://190.216.162.154:8001/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="2583" name="103.6 HBO SIGNATURE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg", 103.6 HBO SIGNATURE
 http://home-playtv.com:8080/garayale/KSGSU/167659
 #EXTINF:0 type="stream" channelId="2725" name="103.7 HBO MUNDI" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" size="Small", 103.7 HBO MUNDI
 http://home-playtv.com:8080/garayale/KSGSU/19547
 #EXTINF:0 type="stream" channelId="2625" name="104 STUDIO UNIVERSAL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", 104 STUDIO UNIVERSAL
-http://45.177.53.7:8000/play/a0j7/index.m3u8
+http://45.173.201.50:4000/play/a06w/index.m3u8
 #EXTINF:0 type="stream" channelId="187" name="105 UNIVERSAL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg", 105 UNIVERSAL CHANNEL
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+http://190.216.162.154:8001/play/a01a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="105.1 UNIVERSAL CINEMA" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", 105.1 UNIVERSAL CINEMA
-http://45.5.117.182:8000/play/a0jz/index.m3u8
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/144835
 #EXTINF:0 type="stream" channelId="-1" name="105.2 UNIVERSAL COMEDY" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038", 105.2 UNIVERSAL COMEDY
-http://138.117.97.182:58091/play/a0c7
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/153306
 #EXTINF:0 type="stream" channelId="-1" name="105.3 UNIVERSAL CRIME" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018", 105.3 UNIVERSAL CRIME
-http://138.117.97.182:58091/play/a0c6
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1466
 #EXTINF:0 type="stream" channelId="-1" name="105.4 UNIVERSAL PREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", 105.4 UNIVERSAL PREMIER
-http://190.61.43.117:45000/play/a05w
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/26737
 #EXTINF:0 type="stream" channelId="-1" name="105.5 UNIVERSAL PREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", 105.5 UNIVERSAL PREMIER OESTE
-http://138.59.177.34:8000/play/a05t/index.m3u8
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/26738
 #EXTINF:0 type="stream" channelId="-1" name="105.6 UNIVERSAL REALITY" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056", 105.6 UNIVERSAL REALITY
 http://181.78.105.146:6060/play/a03r
 #EXTINF:0 type="stream" channelId="292" name="106 MULTIPREMIER" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Multipremier_logo.svg", 106 MULTIPREMIER
-http://138.117.97.182:58091/play/a042
+http://45.173.201.50:4000/play/a037/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="107 MULTICINEMA" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", 107 MULTICINEMA
-http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+http://45.173.201.50:4000/play/a01y/index.m3u8
 #EXTINF:0 type="stream" channelId="3229" name="108 USA NETWORK" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg", 108 USA NETWORK
-http://181.205.130.194:4000/play/a06v/index.m3u8
+http://200.60.124.19:29000/play/a022/index.m3u8
 #EXTINF:0 type="stream" channelId="895" name="109 TCM" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TCM_Latam_logo.svg", 109 TCM
-http://190.121.153.89:8000/play/a051/index.m3u8
+http://200.60.124.19:29000/play/a01s/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="110 STAR TVE" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", 110 STAR TVE
-http://191.97.60.193:10000/play/a02f/index.m3u8
+http://190.216.162.154:8001/play/a01w/index.m3u8
 #EXTINF:0 type="stream" channelId="3727" name="111 CINEMA" group="SERIES Y PELICULAS" logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" size="Small", 111 AZCINEMA
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/129028
+http://todoporti.eu:80/7de2q9XPHJVF/UBFbhZX5eewG/79188
 #EXTINF:0 type="stream" channelId="-1" name="112 D PELICULA" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png", 112 D PELICULA
-http://190.121.153.89:8000/play/a00v/index.m3u8
+http://190.109.4.34:8000/play/a08z/index.m3u8
 #EXTINF:0 type="stream" channelId="326" name="113 EUROPA" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", 113 EUROPA EUROPA
-http://138.117.97.182:58091/play/a05k
+http://170.82.37.21:8000/play/a02b/index.m3u8
 #EXTINF:0 type="stream" channelId="2621" name="114 EUROCHANNEL" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Eurochannel.png", 114 EUROCHANNEL
-http://138.186.20.13:23200/play/a0de
+http://170.82.37.21:8000/play/a02a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="115 FMHFAMILY" group="SERIES Y PELICULAS" logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg", 115 FMHFAMILY
-http://190.110.109.104:52321/play/a012/index.m3u8
+http://45.173.201.50:4000/play/a01b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="115.1 FMHKIDS" group="KIDS" logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg", 115.1 FMHKIDS
-http://190.110.109.104:52321/play/a013/index.m3u8
+http://45.173.201.50:4000/play/a01c/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="115.2 FMHMOVIES" group="SERIES Y PELICULAS" logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg", 115.2 FMHMOVIES
-http://190.110.109.104:52321/play/a011/index.m3u8
+http://45.173.201.50:4000/play/a01a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="116 DREAMWORKS" group="KIDS" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg", 116 DREAMWORKS
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncvXoiAtSz5H7liRwWrfVHRzvnv95Ca-n1ZfqhAngUzXV
 #EXTINF:0 type="stream" channelId="283" name="117 CINE LATINO" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg", 117 CINE LATINO
-http://138.117.97.182:58091/play/a016
+http://170.82.37.21:8000/play/a01o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="117.1 CINE PREMIUM" group="SERIES Y PELICULAS" logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png", 117.1 CINE PREMIUM
-http://191.97.60.193:10000/play/a02k/index.m3u8
+http://190.90.252.200:16001/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="117.2 CINE HISPANO" group="SERIES Y PELICULAS" logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_cinehispano.jpg", 117.2 CINE HISPANO
-http://191.97.60.193:10000/play/a02x/index.m3u8
+http://190.90.252.200:16001/play/a061/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="117.3 CINE FAMILIAR" group="SERIES Y PELICULAS" logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_cinefamiliar.jpg", 117.3 CINE FAMILIAR
-http://191.97.60.193:10000/play/a02w/index.m3u8
+http://190.90.252.200:16001/play/a063/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="118 CHAVO DEL 8" group="SERIES Y PELICULAS" logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg", 118 CHAVO DEL 8
-http://home-playtv.com:8080/SiaFlores21/BSMRA/216295
+http://xtream.lat:8880/Alex2023/Alex2023/150945
