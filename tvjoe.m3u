@@ -26,7 +26,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="8 CANAL N" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" size="Small", 8 CANAL N
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/59860
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9 ATV
-http://200.60.124.19:29000/play/a04t/index.m3u8
+http://181.78.27.128:8000/play/a04a/index.m3u8
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9.1 ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0 type="stream" channelId="4794" name="9.2 ATV SUR" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", 9.2 ATV SUR
