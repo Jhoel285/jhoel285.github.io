@@ -4,15 +4,15 @@ https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=v
 #EXTINF:0 type="stream" channelId="2545" name="2.1 LATINA HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg" size="Small", 2.1 LATINA HD
 http://45.173.201.50:4000/play/a068/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="3 RPP TV" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" size="Small", 3 RPP TV
-http://todoporti.eu:80/7de2q9XPHJVF/UBFbhZX5eewG/79180
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/31438
 #EXTINF:0 type="stream" channelId="4792" name="4 AMERICA TV" group="LOCAL" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" size="Small", 4 AMERICA TV
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://190.60.40.37:12500/play/a0af/index.m3u8
 #EXTINF:0 type="stream" channelId="4792" name="4.1 AMERICA TV HD" group="LOCAL" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" size="Small", 4.1 AMERICA TV HD
 http://45.173.201.50:4000/play/a067/index.m3u8
 #EXTINF:0 type="stream" channelId="1956" name="5 PANAMERICANA TV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg", 5 PANAMERICANA TV
 http://home-playtv.com:8080/garayale/KSGSU/192237
 #EXTINF:0 type="stream" channelId="1956" name="5.1 PANAMERICANA TV HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg", 5.1 PANAMERICANA TV HD
-http://190.216.162.153:8001/play/a0ed/index.m3u8
+http://45.173.201.50:4000/play/a08u/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="6 EXITOSA" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png", 6 EXITOSA
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0 type="stream" channelId="2542" name="7 TV PERU" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg", 7 TV PERU
@@ -24,7 +24,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:0 type="stream" channelId="2544" name="7.3 CANAL IPE" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Canal_IPe_Abril_2022.png", 7.3 CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="8 CANAL N" group="LOCAL Y NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" size="Small", 8 CANAL N
-http://pe.shortgod.com/wow/play.php?id=197
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/59860
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9 ATV
 http://190.216.162.153:8001/play/a0en/index.m3u8
 #EXTINF:0 type="stream" channelId="4793" name="9 ATV HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" size="Small", 9.1 ATV HD
@@ -32,9 +32,9 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0 type="stream" channelId="4794" name="9.2 ATV SUR" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", 9.2 ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:0 type="stream" channelId="2549" name="9.3 ATV+" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", 9.3 ATV+
-http://190.216.162.153:8001/play/a0eo/index.m3u8
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/153837
 #EXTINF:0 type="stream" channelId="2549" name="9.4 ATV+ HD" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", 9.4 ATV+ HD
-http://190.216.162.154:8001/play/a0eo/index.m3u8
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/153590
 #EXTINF:0 type="stream" channelId="4804" name="10 WILLAX" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png", 10 WILLAX
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0 type="stream" channelId="4749" name="11 LA TELE" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png", 11 LA TELE
@@ -42,7 +42,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3077" name="12 KANAL D DRAMA" group="LOCAL" logo="https://kanalddrama.com/assets/img/logotop2.png", 12 KANAL D DRAMA
 http://190.216.162.153:8001/play/a01s/index.m3u8
 #EXTINF:0 type="stream" channelId="4798" name="13 GLOBAL TV" group="LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png", 13 GLOBALTV
-http://190.216.162.153:8001/play/a0ex/index.m3u8
+http://45.173.201.50:4000/play/a08w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="14 MOVISTAR PLUS" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png", 14 MOVISTAR PLUS
 http://home-playtv.com:8080/garayale/KSGSU/230754
 #EXTINF:0 type="stream" channelId="1365" name="15 MOVISTAR DEPORTES HD" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg", 15 MOVISTAR DEPORTES HD
