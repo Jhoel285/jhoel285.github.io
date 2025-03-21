@@ -46,7 +46,7 @@ http://45.173.201.50:4000/play/a08w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="14 MOVISTAR PLUS" group="ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png", 14 MOVISTAR PLUS
 http://38.7.101.90:8000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="1365" name="15 MOVISTAR DEPORTES HD" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg", 15 MOVISTAR DEPORTES HD
-http://200.60.124.20:29000/play/a06p/index.m3u8
+http://38.41.8.1:8000/play/a0ry
 #EXTINF:0 type="stream" channelId="1365" name="15.1 MOVISTAR DEPORTES HD" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg", 15.1 MOVISTAR DEPORTES HD
 http://38.43.151.206:8000/play/a02z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="16 LIGA 1 MAX HD" group="DEPORTES" logo="https://i.ibb.co/sjPzXcg/Liga1.png", 16 LIGA 1 MAX
